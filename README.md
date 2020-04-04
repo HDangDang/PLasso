@@ -1,0 +1,2 @@
+# PLasso
+基于回归分析p值和Adaptive Lasso的基础知识，提出将额外信息p值作为Adaptive Lasso的权重建立模型的为PLasso方法，为模型加入额外信息。
